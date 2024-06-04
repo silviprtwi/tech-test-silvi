@@ -1,0 +1,15 @@
+[
+    {
+      "id": 1,
+      "icon": "/icon/gold-icon.png",
+      "title": "Pembayaran Gadai",
+      "description": "Bayar cicilan, perpanjang, dan tebus gadai lebih mudah dengan aplikasi Pegadaian Digital."
+    },
+    {
+      "id": 2,
+      "icon": "/icon/gold-icon-1.png",
+      "title": "Pembayaran Angsuran",
+      "description": "Bayar angsuran kredit kamu langsung dari aplikasi Pegadaian Digital tanpa harus datang ke outlet Pegadaian."
+    }
+  ]
+  

@@ -1,0 +1,42 @@
+[
+    {
+      "id": 1,
+      "title": "Apa itu aplikasi Pegadaian Digital?",
+      "description": "Aplikasi Pegadaian Digital adalah aplikasi yang memudahkan transaksi Pegadaian di mana saja melalui ponsel secara aman."
+    },
+    {
+      "id": 2,
+      "title": "Bagaimana cara memperoleh aplikasi Pegadaian Digital?",
+      "description": "Aplikasi Pegadaian bisa diunduh di Playstore bagi pengguna Android dan Appstore bagi pengguna iOS."
+    },
+    {
+      "id": 3,
+      "title": "Kapan jam layanan aplikasi Pegadaian Digital?",
+      "description": "Kamu bisa melakukan registrasi dengan mengisi data diri termasuk nomor ponsel dan alamat email."
+    },
+    {
+      "id": 4,
+      "title": "Saya sudah menjadi nasabah Pegadaian sebelumnya, bagaimana agar data saya dapat tersambung dengan aplikasi Pegadaian Digital?",
+      "description": "Kamu harus melakukan proses Link CIF yang terdapat pada menu pengaturan."
+    },
+    {
+      "id": 5,
+      "title": "Apa itu CIF?",
+      "description": "CIF (Customer Identification File) atau Nomor Identitas Nasabah adalah identifikasi yang diberikan kepada seorang yang telah menjadi nasabah dan menggunakan salah satu produk Pegadaian. CIF terdiri dari 10 digit angka yang dapat dilihat pada:\n- Surat Bukti Gadai / Surat Bukti Rahn / Buku Tabungan Emas Pegadaian.\n- Surat Perjanjian Kredit pada saat pencairan pinjaman.\n- Aplikasi Pegadaian Digital pada nasabah yang sudah melakukan Link CIF.\n- Bertanya pada petugas/karyawan di outlet Pegadaian terdekat."
+    },
+    {
+      "id": 6,
+      "title": "Mengapa saya tidak bisa melakukan buyback (jual kembali) atau menggadai Tabungan Emas saya melalui Aplikasi Pegadaian Digital?",
+      "description": "Untuk dapat melakukan transaksi buyback atau transaksi Gadai Tabungan Emas, Kamu dapat melakukan Upgrade Akun Premium melalui Outlet Pegadaian terdekat dengan membawa Kartu Identitas (E-KTP).\nSetelah melakukan Upgrade Akun Premium, Kamu akan mendapatkan layanan full service Aplikasi Pegadaian Digital, antara lain:\n- Buyback (jual kembali) Tabungan Emas\n- Gadai Tabungan Emas\n- Dan fitur premium lainnya."
+    },
+    {
+      "id": 7,
+      "title": "Di mana saya bisa mendapatkan informasi lebih lanjut terkait Aplikasi Pegadaian Digital?",
+      "description": "Untuk informasi layanan Aplikasi Pegadaian Digital, Kamu dapat menghubungi kami melalui:\n- Pegadaian Call Center\n- Hotline: 1500 569\n- Whatsapp: 0852-2443-2443 / 0813-2443-2443\n- Email: customer.care@pegadaian.co.id"
+    },
+    {
+      "id": 8,
+      "title": "Bagaimana cara melakukan gadai di aplikasi Pegadaian Digital?",
+      "description": "Gadai di aplikasi Pegadaian Digital bisa dilakukan dengan produk Gadai Tabungan Emas pada menu Gadai. Gadai Tabungan Emas adalah pemberian kredit dengan sistem gadai dengan jaminan Tabungan Emas.\nPilihan jangka waktu gadai hingga 120 hari namun dapat dilunasi sewaktu-waktu. Sewa modal ditetapkan tiap 15 hari yaitu 0,75% atau 18,25% dalam setahun.\nJika mengajukan pinjaman Gadai Tabungan Emas senilai Rp10.000.000, biaya administrasi dikenakan sebesar 0,05% atau Rp5.000 yang akan dipotong di uang pinjaman. Sedangkan biaya sewa modal sebesar Rp75.000 setiap 15 hari."
+    }
+]

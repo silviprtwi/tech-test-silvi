@@ -1,0 +1,39 @@
+[
+    {
+      "id": 1,
+      "icon": "/icon/calendar-color.png",
+      "title": "Booking Gadai",
+      "description": "Rencanakan kedatangan ke outlet Pegadaian tanpa harus mengantre."
+    },
+    {
+      "id": 2,
+      "icon": "/icon/mobile-lock.png",
+      "title": "Gadai Online",
+      "description": "Gadai tanpa datang ke outlet Pegadaian, barang jaminan dijemput, pencairan langsung ke rekening."
+    },
+    {
+      "id": 3,
+      "icon": "/icon/stat.png",
+      "title": "Gadai Saham & Obligasi",
+      "description": "Gadai dengan jaminan saham dan obligasi tanpa warkat yang tercatat dan diperdagangkan di Bursa Efek."
+    },
+    {
+      "id": 4,
+      "icon": "/icon/gold-icon.png",
+      "title": "Gadai Tabungan Emas",
+      "description": "Gadai dengan jaminan Pegadaian Tabungan Emas kamu dengan mudah dan praktis."
+    },
+    {
+      "id": 5,
+      "icon": "/icon/money.png",
+      "title": "Pembiayaan Multiguna",
+      "description": "Pembiayaan untuk keperluan produktif dan konsumtif untuk wirausahawan, karyawan, dan profesional."
+    },
+    {
+      "id": 6,
+      "icon": "/icon/hajj.png",
+      "title": "Pembiayaan Ibadah Haji",
+      "description": "Dapatkan porsi Haji dengan jaminan logam mulia dan perhiasan sesuai prinsip syariah."
+    }
+  ]
+  

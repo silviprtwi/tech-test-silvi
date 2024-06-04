@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "icon": "/icon/calendar-color.png",
+      "title": "Pembayaran Gadai",
+      "description": "Bayar cicilan, perpanjang, dan tebus gadai lebih mudah dengan aplikasi Pegadaian Digital."
+    },
+    {
+      "id": 2,
+      "icon": "/icon/schedule-icon-1.png",
+      "title": "Pembayaran Angsuran",
+      "description": "Bayar angsuran kredit kamu langsung dari aplikasi Pegadaian Digital tanpa harus datang ke outlet Pegadaian."
+    },
+    {
+      "id": 3,
+      "icon": "/icon/mobile-lock-icon.png",
+      "title": "Pembelian Pulsa",
+      "description": "Beli pulsa dan paket data semua operator dengan berbagai pilihan nominal."
+    }
+  ]
+  
