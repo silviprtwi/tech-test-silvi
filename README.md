@@ -37,12 +37,12 @@ Here is the directory structure of this project:
 ```
 
 ## Color Kit
-- ![ #2D2D32 ](https://www.colorhexa.com/2D2D32.png) `#2D2D32`
-- ![ #005E51 ](https://www.colorhexa.com/005E51.png) `#005E51`
-- ![ #F8FCFA ](https://www.colorhexa.com/F8FCFA.png)`#F8FCFA` 
-- ![ #18A54B ](https://www.colorhexa.com/18A54B.png)`#18A54B` 
-- ![ #CCCCCC ](https://www.colorhexa.com/CCCCCC.png) `#CCCCCC` 
-- ![ #FF8F15 ](https://www.colorhexa.com/FF8F15.png) `#FF8F15` 
+- ![ #2D2D32 ](https://placehold.co/15x15/2D2D32/2D2D32.png) `#2D2D32`
+- ![ #005E51 ](https://placehold.co/15x15/005E51/005E51.png) `#005E51`
+- ![ #F8FCFA ](https://placehold.co/15x15/F8FCFA/F8FCFA.png)`#F8FCFA` 
+- ![ #18A54B ](https://placehold.co/15x15/18A54B/18A54B.png)`#18A54B` 
+- ![ #CCCCCC ](https://placehold.co/15x15/CCCCCC/CCCCCC.png) `#CCCCCC` 
+- ![ #FF8F15 ](https://placehold.co/15x15/FF8F15/FF8F15.png) `#FF8F15` 
 
 ## Design File
 
@@ -52,19 +52,19 @@ If you need the design files, you can view them on Figma [here](https://www.figm
 
 ## How to Install and Run the Project
 
-1. Clone the Repository:
+### 1. Clone the Repository:
 ```bash
 git clone https://github.com/silviprtwi/tech-test-silvi.git
 cd tech-test-silvi
 ```
 
-2. Install Dependencies:
+### 2. Install Dependencies:
 Ensure you have Node.js and npm installed. Then run the following command:
 ```bash
 npm install
 ```
 
-3. Run the Application:
+### 3. Run the Application:
 To run the project, use the following command:
 ```bash
 npm start

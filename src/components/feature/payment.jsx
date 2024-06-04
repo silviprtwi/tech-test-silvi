@@ -3,7 +3,7 @@ const Payment = (props) => {
     <div>
       <div
         key={props.id}
-        className="flex flex-col items-center p-6 space-y-3 text-center "
+        className="flex flex-col items-center p-6 space-y-3 text-center min-w-80 max-w-96"
       >
         <span className="inline-block p-5  bg-icon border border-green border-dashed rounded-full">
           <img

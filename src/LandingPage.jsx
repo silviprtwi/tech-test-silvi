@@ -13,12 +13,12 @@ const LandingPage = () => {
       {/* START SUPERIOR */}
       <div
         id="superior"
-        className="max-w-screen-xl px-8 lg:px-0 pt-16 md:pt-32 pb-10 mx-auto bg-white rounded-xl shadow-sm"
+        className="max-w-screen-xl pr-8 pl-14 lg:px-0 pt-16 lg:pt-32 md:pt-44 pb-10 mx-auto bg-white rounded-xl shadow-sm"
       >
         <div className="text-label font-bold text-3xl flex justify-center text-center">
           Mengapa Pegadaian Digital?
         </div>
-        <div className="grid grid-cols-1 gap-8 mt-8 xl:mt-12 xl:gap-16 xl:grid-cols-3 md:grid-cols-3">
+        <div className="grid grid-cols-1 gap-8 mt-8 xl:mt-12 xl:gap-16 xl:grid-cols-3">
           {superiorData.map((item) => (
             <Superior
               key={item.id}

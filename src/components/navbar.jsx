@@ -28,13 +28,13 @@ export default function Navbar() {
     <header className="flex justify-center">
       <nav className="fixed z-20 w-full md:w-10/12 bg-white shadow-md rounded-b-none md:rounded-b-xl">
         <div className="flex flex-wrap items-center justify-between gap-6 py-3 md:py-5 md:gap-0 px-6 md:px-12">
-          <div className="w-full flex justify-between lg:w-auto items-center">
+          <div className="w-full md:w-auto flex justify-between items-center">
             <img
               src="/images/sahabat-pegadaian.png"
-              className="h-8 w-auto"
+              className="h-10 w-auto"
               alt="img"
             />
-            <div className="lg:hidden" onClick={handleClick}>
+            <div className="md:hidden" onClick={handleClick}>
               {click ? (
                 <>
                   <FaTimes className="text-grey" />
@@ -55,11 +55,12 @@ export default function Navbar() {
                   </div>
                 </>
               ) : (
-                <FaBars className="text-grey" />
+                <FaBars className="text-grey w-6 h-6" />
               )}
             </div>
           </div>
-          <div className=" hidden w-full flex-wrap justify-end items-center mb-16 space-y-8 p-6 border border-gray-100 rounded-3xl shadow-2xl shadow-gray-300/20 bg-white lg:space-y-0 lg:p-0 lg:m-0 lg:flex md:flex-nowrap lg:bg-transparent lg:w-7/12 lg:shadow-none lg:border-0 gap-5">
+          <div className="hidden md:inline">
+          <div className="flex gap-5">
             {menu.map((item, idx) => (
               <ul key={idx}>
                 <a
@@ -75,9 +76,10 @@ export default function Navbar() {
             ))}
             <img
               src="/images/pegadaian-1.png"
-              className="h-7 w-auto"
+              className="h-7 w-auto hidden lg:inline"
               alt="img"
             />
+          </div>
           </div>
         </div>
       </nav>

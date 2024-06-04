@@ -53,7 +53,7 @@ const Feature = () => {
         <div className="text-label font-bold text-3xl flex justify-center">
           Pembayaran & Topup
         </div>
-        <div className="grid grid-cols-1 gap-0 mt-8 xl:mt-12 xl:gap-10 md:grid-cols-2 xl:grid-cols-3">
+        <div className="flex justify-center flex-wrap">
           {paymentData.map((item) => (
             <Payment
               key={item.id}
