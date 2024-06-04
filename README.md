@@ -2,16 +2,20 @@
 
 ![Sahabat Pegadaian Digital](/public/cover.png)
 
-Sahabat Pegadaian Digital adalah sebuah aplikasi web yang dikembangkan menggunakan React.js dan TailwindCSS. Aplikasi ini dirancang untuk memenuhi persyaratan dari sebuah tes teknis.
+Sahabat Pegadaian Digital is a web application designed and re-mapped using Figma, and use React
+JS/Next JS for the implementation of component making. This application was created to meet the requirements of a technical test.
 
-## Fitur Utama
-- **Desain Responsif**: Menggunakan TailwindCSS untuk memastikan tampilan yang optimal di berbagai perangkat.
-- **Komponen Reusable**: Dikembangkan dengan React.js sehingga setiap komponen dapat digunakan kembali untuk efisiensi dan konsistensi kode.
-- **Manajemen State**: Menggunakan state management dari React untuk memastikan data dapat diakses dan diperbarui dengan mudah di seluruh aplikasi.
+## Main Features
+- **Responsive Design**: Utilizes TailwindCSS to ensure optimal display across various devices.
+- **Reusable Components**: Developed with React.js so that each component can be reused for code efficiency and consistency.
+- **State Management**: Uses React state management to ensure data can be easily accessed and updated throughout the application.
 
-## Struktur Proyek
-Berikut adalah struktur direktori dari proyek ini:
+## Usage
+This application is created as a Landing Page display only.
 
+## Project Structure
+Here is the directory structure of this project:
+```bash
 /tech-test-silvi
 |-- /public
 |   |-- /icon
@@ -30,33 +34,42 @@ Berikut adalah struktur direktori dari proyek ini:
 |-- package.json
 |-- README.md
 `-- tailwind.config.js
+```
 
+## Color Kit
+- ![ #2D2D32 ](https://www.colorhexa.com/2D2D32.png) `#2D2D32`
+- ![ #005E51 ](https://www.colorhexa.com/005E51.png) `#005E51`
+- ![ #F8FCFA ](https://www.colorhexa.com/F8FCFA.png)`#F8FCFA` 
+- ![ #18A54B ](https://www.colorhexa.com/18A54B.png)`#18A54B` 
+- ![ #CCCCCC ](https://www.colorhexa.com/CCCCCC.png) `#CCCCCC` 
+- ![ #FF8F15 ](https://www.colorhexa.com/FF8F15.png) `#FF8F15` 
 
+## Design File
 
-## Demo Langsung
-Lihat demo langsung [di sini](https://example.com/live-demo) 👉️
+![Sahabat Pegadaian Digital](/public/figma.gif)
 
-## Berkas Desain
-Jika Anda memerlukan berkas desain, Anda dapat melihatnya di Figma [di sini](https://www.figma.com/design/6cL8yfHdr1623pjfa1ELlz/Pegadaian?node-id=11-3219&t=igbPCvUj6UAJmfyu-1) 👉️
+If you need the design files, you can view them on Figma [here](https://www.figma.com/design/6cL8yfHdr1623pjfa1ELlz/Pegadaian?node-id=11-3219&t=igbPCvUj6UAJmfyu-1) 👉️
 
-## Cara Instalasi dan Menjalankan Proyek
+## How to Install and Run the Project
 
-### Clone Repository:
-```sh
-git clone [https://github.com/silviprtwi/tech-test-silvi.git](https://github.com/silviprtwi/tech-test-silvi.git)
+1. Clone the Repository:
+```bash
+git clone https://github.com/silviprtwi/tech-test-silvi.git
 cd tech-test-silvi
 ```
 
-### Instalasi Dependencies:
-Pastikan Anda telah menginstal Node.js dan npm. Kemudian jalankan perintah berikut:
-```sh
+2. Install Dependencies:
+Ensure you have Node.js and npm installed. Then run the following command:
+```bash
 npm install
 ```
 
-### Menjalankan Aplikasi:
-```sh
+3. Run the Application:
+To run the project, use the following command:
+```bash
 npm start
 ```
+Open http://localhost:3000 in your browser to view the result.
 
-## Kontak
-Aplikasi ini dibuat dan dikelola oleh Silvi Pratiwi
+## Contact
+This application was created and is managed by Silvi Pratiwi.
